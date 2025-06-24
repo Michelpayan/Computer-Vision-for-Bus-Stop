@@ -1,4 +1,4 @@
-**Internship Report at BusPas Inc. 2024**
-**Project Title: Design and develop an efficient offline computer vision system to detect site behavior at the bus stop using the SCiNe device of BusPas**
+# Internship Report at BusPas Inc. 2024
+## Project Title: Design and develop an efficient offline computer vision system to detect site behavior at the bus stop using the SCiNe device of BusPas
 
 This work contains the contribution from the internship at BusPas Inc. focused on developing an AI-powered object detection system for bus stops, leveraging fisheye cameras and edge computing to enhance urban mobility. The project tackled the challenges posed by fisheye image distortions and real-world deployment constraints. Various YOLO models (versions 8 to 11) were evaluated, along with data augmentation strategies to improve object detection performance. Results showed that training on datasets resembling the deployment environment significantly improved accuracy, particularly for classes like buses and pedestrians. Additionally, a license plate detection module was implemented, integrating object detection with optical character recognition (OCR) to extract vehicle information. The study highlights the importance of dataset composition, edge processing, and privacy considerations in smart city applications.
